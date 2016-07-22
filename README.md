@@ -7,7 +7,9 @@ A text file collecting interesting papers
 3. *Nov 2015*, **How (not) to train your generative model: scheduled sampling, likelihood, adversary?** 
 4. *Feb 2016*, **Pixel Recurrent Neural Networks**
 5. *Mar 2016*, **Generative Image Modeling using Styles and Structure Adversarial Networks**
+
 ## Inverse Graphics Networks
 1. *Jun 2015*, **Deep Convolutional Inverse Graphics Network**
+
 ## Learning with lack of Supervision
 1. *Jun 2016*, **Matching Networks for One Shot Learning** https://arxiv.org/abs/1606.04080
