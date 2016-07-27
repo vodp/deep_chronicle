@@ -8,8 +8,12 @@ A text file collecting interesting papers
 4. *Feb 2016*, **Pixel Recurrent Neural Networks**
 5. *Mar 2016*, **Generative Image Modeling using Styles and Structure Adversarial Networks**
 
-## Inverse Graphics Networks
+## Convolutional Networks 
 1. *Jun 2015*, **Deep Convolutional Inverse Graphics Network**
+2. *May 2016*, **Exploiting Cyclic Symmetry in Convolutional Neural Networks**
+3. *Apr 2016*, **Multi-scale Context Aggregation by Dilated Convolutions**
+4. *Feb 2016*, **Exploiting Local Structures with the Kronecker Layer in Convolutional Networks**
 
-## Learning with lack of Supervision
+## Semi-supervised & Oneshot & Zero-shot & Transduction
 1. *Jun 2016*, **Matching Networks for One Shot Learning** https://arxiv.org/abs/1606.04080
+2. *2008*, **A fast learning algorithm for deep belief nets**
