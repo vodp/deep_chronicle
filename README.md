@@ -17,3 +17,9 @@ A text file collecting interesting papers
 ## Semi-supervised & Oneshot & Zero-shot & Transduction
 1. *Jun 2016*, **Matching Networks for One Shot Learning** https://arxiv.org/abs/1606.04080
 2. *2008*, **A fast learning algorithm for deep belief nets**
+
+## Remote Sensing Datasets
+1. **Hyperspectral Remote Sensing Scenes** (hyper-spectral, low res) http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes
+2. **AVIRIS Data** http://aviris.jpl.nasa.gov/data/grad_research.html
+3. **StratMap Houston 2013 1ft NC\CIR** https://tnris.org/data-catalog/entry/stratmap-houston-2013-1ft-nc-cir/
+4. **California State provided by PlanetLabs**
