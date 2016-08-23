@@ -38,9 +38,10 @@ A text file collecting interesting papers
 3. *Apr 2016*, **Multi-scale Context Aggregation by Dilated Convolutions**
 4. *Feb 2016*, **Exploiting Local Structures with the Kronecker Layer in Convolutional Networks**
 
-## Semi-supervised & Oneshot & Zero-shot & Transduction
+## Beyond Supervision
 1. *Jun 2016*, **Matching Networks for One Shot Learning** https://arxiv.org/abs/1606.04080
 2. *2008*, **A fast learning algorithm for deep belief nets**
+3. [*Jun 2016*, **Tagger: Deep Unsupervised Perceptual Grouping**](https://arxiv.org/pdf/1606.06724v1.pdf)
 
 ## Remote Sensing Datasets
 1. **Hyperspectral Remote Sensing Scenes** (hyper-spectral, low res) http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes
