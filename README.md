@@ -30,7 +30,7 @@ A text file collecting interesting papers
 7. *2015*, **Deep Convolutional Neural Networks for Hyperspectral Image Classification**
 8. *2016*, **Deep Learning for Remote Sensing Data**
 9. *Feb 2016*, **Visual descriptors for content-based retrieval of remote sensing images**
-10. *Feb 2016*, **Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping**
+10. [*Feb 2016*, **Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping**](https://arxiv.org/pdf/1510.00098.pdf)
 
 ## General Topics of Convolutional Networks 
 1. *Jun 2015*, **Deep Convolutional Inverse Graphics Network**
